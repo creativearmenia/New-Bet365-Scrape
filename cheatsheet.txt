@@ -1,0 +1,90 @@
+array(75) { 
+["team1"]=> array(15) { 
+["name"]=> string(13) "Real Sociedad" 
+["On Target"]=> string(1) "1" 
+["Off Target"]=> string(1) "1" 
+["Attacks"]=> string(2) "17" 
+["Dangerous Attacks"]=> string(1) "9" 
+["Possession %"]=> string(2) "44" 
+["IGoal"]=> string(1) "0" 
+["ICorner"]=> string(1) "0" 
+["IYellowCard"]=> string(1) "1" 
+["IRedCard"]=> string(1) "0" 
+["IThrowIn"]=> string(1) "-" 
+["IFreeKick"]=> string(1) "-" 
+["IGoalKick"]=> string(1) "-" 
+["IPenalty"]=> string(1) "0" 
+["ISubstitution"]=> string(1) "0" } 
+["team2"]=> array(14) { ["name"]=> string(15) "Athletic Bilbao" ["Off Target"]=> string(1) "1" ["Attacks"]=> string(2) "21" ["Dangerous Attacks"]=> string(1) "9" ["Possession %"]=> string(2) "56" ["IGoal"]=> string(1) "0" ["ICorner"]=> string(1) "0" ["IYellowCard"]=> string(1) "0" ["IRedCard"]=> string(1) "0" ["IThrowIn"]=> string(1) "-" ["IFreeKick"]=> string(1) "-" ["IGoalKick"]=> string(1) "-" ["IPenalty"]=> string(1) "0" ["ISubstitution"]=> string(1) "0" }
+["Fulltime Result"]=> array(3) 					{ ["Real Sociedad"]=> string(3) "7/4" ["Draw"]=> string(4) "15/8" ["Athletic Bilbao"]=> string(4) "15/8" } 
+["Double Chance"]=> array(3) 					{ ["Real Sociedad or Draw"]=> string(4) "4/11" ["Athletic Bilbao or Draw"]=> string(3) "2/5" ["Real Sociedad or Athletic Bilbao"]=> string(4) "4/11" } 
+["Half Time Result"]=> array(3) 				{ ["Real Sociedad"]=> string(4) "10/3" ["Draw"]=> string(3) "4/7" ["Athletic Bilbao"]=> string(4) "15/4" } 
+["1st Goal"]=> array(3) 						{ ["Real Sociedad"]=> string(5) "11/10" ["No 1st Goal"]=> string(3) "9/2" ["Athletic Bilbao"]=> string(3) "5/4" } 
+["Match Goals"]=> array(2) 						{ ["Over "]=> string(3) "4/6" ["Under "]=> string(5) "11/10" } 
+["Alternative Match Goals"]=> array(1) 			{ ["0.5"]=> string(0) "" } 
+["First Half Goals"]=> array(2) 				{ ["Over"]=> string(5) "11/10" ["Under"]=> string(3) "4/6" } 
+["Alternative 1st Half Goals"]=> array(2) 		{ ["Over"]=> string(3) "6/1" ["Under"]=> string(4) "1/10" } 
+["Total Corners"]=> array(3) 					{ ["Over "]=> string(4) "11/8" ["Exactly "]=> string(3) "6/1" ["Under "]=> string(5) "10/11" } 
+["2-Way Corners"]=> array(2) 					{ ["Over"]=> string(3) "4/5" ["Under"]=> string(5) "10/11" } 
+["1st Half Corners"]=> array(3) 				{ ["Over"]=> string(3) "5/6" ["Exactly"]=> string(4) "11/4" ["Under"]=> string(4) "11/5" } 
+["Alternative Total Corners"]=> array(3) 		{ ["Over "]=> string(3) "4/9" ["Exactly "]=> string(3) "6/1" ["Under "]=> string(4) "11/4" } 
+["Asian Handicap (0-0)"]=> array(2) 			{ ["Real Sociedad 0.0"]=> string(4) "9/10" ["Athletic Bilbao 0.0"]=> string(3) "1/1" } 
+["Alternative Asian Handicap (0-0)"]=> array(2) { ["Real Sociedad +0.5"]=> string(5) "17/40" ["Athletic Bilbao -0.5"]=> string(3) "7/4" } 
+["Goal Line (0-0)"]=> array(2) 					{ ["Over 1.5,2.0"]=> string(5) "41/40" ["Under 1.5,2.0"]=> string(3) "7/8" } 
+["Alternative Goal Line (0-0)"]=> array(2) 		{ ["Over 1.0,1.5"]=> string(5) "19/40" ["Under 1.0,1.5"]=> string(3) "8/5" } 
+["1st Half Asian Handicap (0-0)"]=> array(2) 	{ ["Real Sociedad 0.0"]=> string(3) "4/5" ["Athletic Bilbao 0.0"]=> string(5) "21/20" } 
+["Alternative 1st Half Asian (0-0)"]=> array(2) { ["Real Sociedad +0.5"]=> string(6) "19/100" ["Athletic Bilbao -0.5"]=> string(3) "7/2" } 
+["1st Half Goal Line (0-0)"]=> array(2) 		{ ["Over 0.5"]=> string(5) "23/20" ["Under 0.5"]=> string(5) "29/40" } 
+["Alternative 1st Half Goal Line (0-0)"]=> array(2)		 { ["Over 0.5,1.0"]=> string(3) "7/4" ["Under 0.5,1.0"]=> string(5) "17/40" } 
+["Half Time/Full Time"]=> array(3) 				{ ["Real Sociedad - Real Sociedad"]=> string(3) "9/2" ["Real Sociedad - Draw"]=> string(4) "16/1" ["Real Sociedad - Athletic Bilbao"]=> string(4) "33/1" } 
+["Half Time Correct Score"]=> array(1) 			{ ["1-0"]=> string(3) "7/2" } ["Final Score"]=> array(1) { ["1-0"]=> string(3) "9/2" } 
+["Asian Corners"]=> array(2) 					{ ["Over"]=> string(5) "11/10" ["Under"]=> string(4) "7/10" } 
+["1st Half Asian Corners"]=> array(2) 			{ ["Over"]=> string(5) "39/40" ["Under"]=> string(5) "33/40" } 
+["Race to 3 Corners"]=> array(3) 				{ ["Real Sociedad"]=> string(3) "4/6" ["Athletic Bilbao"]=> string(3) "5/4" ["Neither"]=> string(4) "11/1" } 
+["Race to 5 Corners"]=> array(3) 				{ ["Real Sociedad"]=> string(3) "6/4" ["Athletic Bilbao"]=> string(4) "11/4" ["Neither"]=> string(3) "5/4" } 
+["Race to 7 Corners"]=> array(3) 				{ ["Real Sociedad"]=> string(3) "4/1" ["Athletic Bilbao"]=> string(4) "15/2" ["Neither"]=> string(3) "1/4" } 
+["Race to 9 Corners"]=> array(3) 				{ ["Real Sociedad"]=> string(4) "10/1" ["Athletic Bilbao"]=> string(4) "14/1" ["Neither"]=> string(4) "1/20" } 
+["Corner Handicap"]=> array(3) 					{ ["Real Sociedad"]=> string(5) "13/10" ["Tie Athletic Bilbao"]=> string(3) "5/1" ["Athletic Bilbao"]=> string(5) "10/11" } 
+["Most Corners"]=> array(3) 					{ ["Real Sociedad"]=> string(4) "8/11" ["Draw"]=> string(3) "5/1" ["Athletic Bilbao"]=> string(4) "13/8" } 
+["2nd Corner"]=> array(2) 						{ ["Real Sociedad"]=> string(4) "8/11" ["Athletic Bilbao"]=> string(3) "1/1" } 
+["Last Corner"]=> array(2) 						{ ["Real Sociedad"]=> string(4) "8/11" ["Athletic Bilbao"]=> string(3) "1/1" } 
+["Number of Cards"]=> array(2) 					{ ["Over "]=> string(3) "4/5" ["Under "]=> string(5) "10/11" } 
+["3-Way Handicap"]=> array(3) 					{ ["Real Sociedad "]=> string(4) "11/2" ["Draw (Athletic Bilbao )"]=> string(4) "11/4" ["Athletic Bilbao "]=> string(3) "2/5" } 
+["Alternative 3-Way Handicap"]=> array(3) 		{ ["Real Sociedad"]=> string(4) "1/12" ["Draw (Athletic Bilbao)"]=> string(3) "7/1" ["Athletic Bilbao"]=> string(4) "16/1" } 
+["1st Half 3-Way Handicap"]=> array(3) 			{ ["Real Sociedad"]=> string(4) "22/1" ["Draw (Athletic Bilbao)"]=> string(3) "7/2" ["Athletic Bilbao"]=> string(4) "2/11" } 
+["Alternative 1st Half 3-Way Handicap"]=> array(2) 		{ ["Real Sociedad"]=> string(3) "1/6" ["Draw (Athletic Bilbao)"]=> string(3) "4/1" } 
+["Draw No Bet"]=> array(2) 						{ ["Real Sociedad"]=> string(3) "5/6" ["Athletic Bilbao"]=> string(3) "5/6" } 
+["Last Team to Score"]=> array(3) 				{ ["Real Sociedad"]=> string(5) "11/10" ["No Goals"]=> string(3) "9/2" ["Athletic Bilbao"]=> string(3) "5/4" } 
+["Goals Odd/Even"]=> array(2) 					{ ["Odd"]=> string(5) "10/11" ["Even"]=> string(3) "4/5" } 
+["Result / Both Teams To Score"]=> array(2) 	{ ["Real Sociedad & Yes"]=> string(4) "15/2" ["Real Sociedad & No"]=> string(4) "11/4" } 
+["Both Teams to Score"]=> array(2) 				{ ["Yes"]=> string(3) "6/4" ["No"]=> string(3) "1/2" } 
+["Both Teams to Score in 1st Half"]=> array(2)	{ ["Yes"]=> string(4) "12/1" ["No"]=> string(4) "1/25" } 
+["Both Teams to Score in 2nd Half"]=> array(2) 	{ ["Yes"]=> string(3) "3/1" ["No"]=> string(3) "2/9" } 
+["Real Sociedad Clean Sheet"]=> array(2) 		{ ["Yes"]=> string(3) "5/4" ["No"]=> string(3) "4/7" } 
+["Athletic Bilbao Clean Sheet"]=> array(2) 		{ ["Yes"]=> string(4) "11/8" ["No"]=> string(4) "8/15" } 
+["Real Sociedad Exact Goals"]=> array(2) 		{ ["0 Goals"]=> string(4) "11/8" ["1 Goal"]=> string(4) "11/8" } 
+["Athletic Bilbao Exact Goals"]=> array(2) 		{ ["0 Goals"]=> string(3) "5/4" ["1 Goal"]=> string(4) "11/8" } 
+["Real Sociedad Goals"]=> array(2) 				{ ["Over 1.5"]=> string(4) "11/4" ["Under 1.5"]=> string(3) "1/4" } 
+["Athletic Bilbao Goals"]=> array(2) 			{ ["Over 1.5"]=> string(4) "11/4" ["Under 1.5"]=> string(3) "1/4" } 
+["Real Sociedad to Score in Both Halves"]=> array(2) 	{ ["Yes"]=> string(3) "6/1" ["No"]=> string(4) "1/10" } 
+["Athletic Bilbao to Score in Both Halves"]=> array(2) 	{ ["Yes"]=> string(3) "7/1" ["No"]=> string(4) "1/12" } 
+["To Win 2nd Half"]=> array(3) 					{ ["Real Sociedad"]=> string(3) "2/1" ["Draw"]=> string(3) "5/4" ["Athletic Bilbao"]=> string(3) "2/1" } 
+["Real Sociedad to Score in 2nd Half"]=> array(2) 		{ ["Yes"]=> string(5) "10/11" ["No"]=> string(3) "4/5" } 
+["Athletic Bilbao to Score in 2nd Half"]=> array(2) 	{ ["Yes"]=> string(3) "1/1" ["No"]=> string(4) "8/11" } 
+["1st Goalscorer"]=> array(2) 					{ ["Aritz Aduriz"]=> string(3) "9/2" ["Carlos Alberto Vela"]=> string(3) "7/1" } 
+["To Score at Any Time"]=> array(2) 			{ ["Aritz Aduriz"]=> string(3) "7/4" ["Carlos Alberto Vela"]=> string(4) "11/4" } 
+["To Score 2 or More"]=> array(2) 				{ ["Aritz Aduriz"]=> string(4) "11/1" ["Carlos Alberto Vela"]=> string(4) "22/1" } 
+["To Score a Hat Trick"]=> array(2)				{ ["Aritz Aduriz"]=> string(4) "66/1" ["Carlos Alberto Vela"]=> string(5) "100/1" } 
+["1st Goal Method"]=> array(2) 					{ ["Shot"]=> string(3) "4/6" ["Header"]=> string(3) "9/2" } 
+["Ten Minute Goals - 30:00 - 39:59"]=> array(2) { ["Over 0.5"]=> string(4) "10/3" ["Under 0.5"]=> string(3) "1/5" } 
+["Ten Minute Corners - 30:00 - 39:59"]=> array(2)		{ ["Over 0.5"]=> string(3) "4/9" ["Under 0.5"]=> string(4) "13/8" } 
+["Ten Minute Cards - 30:00 - 39:59"]=> array(2) { ["Over 0.5"]=> string(3) "4/5" ["Under 0.5"]=> string(5) "10/11" } 
+["30 mins Result"]=> array(3) 					{ ["Real Sociedad"]=> string(3) "8/1" ["Draw"]=> string(3) "1/8" ["Athletic Bilbao"]=> string(3) "9/1" } 
+["40 mins Result"]=> array(3) 					{ ["Real Sociedad"]=> string(4) "15/4" ["Draw"]=> string(3) "2/5" ["Athletic Bilbao"]=> string(3) "9/2" } 
+["50 mins Result"]=> array(3) 					{ ["Real Sociedad"]=> string(4) "13/5" ["Draw"]=> string(3) "4/6" ["Athletic Bilbao"]=> string(3) "3/1" } 
+["60 mins Result"]=> array(3) 					{ ["Real Sociedad"]=> string(4) "11/5" ["Draw"]=> string(5) "20/21" ["Athletic Bilbao"]=> string(4) "12/5" } 
+["70 mins Result"]=> array(3) 					{ ["Real Sociedad"]=> string(3) "2/1" ["Draw"]=> string(3) "6/5" ["Athletic Bilbao"]=> string(5) "21/10" } 
+["80 mins Result"]=> array(3) 					{ ["Real Sociedad"]=> string(4) "15/8" ["Draw"]=> string(4) "11/8" ["Athletic Bilbao"]=> string(3) "2/1" } 
+["Time of 1st Goal"]=> array(2) 				{ ["Goal Before 30:00"]=> string(3) "4/1" ["No Goal Before 30:00"]=> string(3) "1/6" } 
+["Time of 1st Goal - Real Sociedad"]=> array(2) { ["Goal Before 30:00"]=> string(3) "8/1" ["No Goal Before 30:00"]=> string(4) "1/14" } 
+["Time of 1st Goal - Athletic Bilbao"]=> array(2) { ["Goal Before 30:00"]=> string(3) "9/1" ["No Goal Before 30:00"]=> string(4) "1/16" } }
